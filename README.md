@@ -1,0 +1,8 @@
+MCP2515->Arduino Nano
+VCC->5V
+GND->GND
+CS->D8
+SO->D12
+SI->D11
+SCK->D13
+INT->D2
